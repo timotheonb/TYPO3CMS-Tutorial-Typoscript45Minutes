@@ -89,7 +89,7 @@ wrapping tag. If you have lines, which are already wrapped in
 <p>\|</p>, the result would be an inconsistent mixture of P tags with
 and without classes, instead of one consistent wrap.
 
-To demonstrate it clearly: To get rid of the mostly annoying
+To demonstrate it clearly: To get rid of the most annoying
 class="bodytext", you don't need to do more than to insert the
 following line::
 
